@@ -93,7 +93,7 @@ https://nodejs.org/en/download/
     git clone https://github.com/MarceloHEcker/elixir-test.git
 
     #Entry in Elixir Test folder
-    cd exilir-test
+    cd elixir-test
 
     #Install deps
     mix deps.get
