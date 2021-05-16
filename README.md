@@ -23,7 +23,7 @@
 <br>
 
 <p align="center" id="project">
-  Inamana this a app to manage products that are overset. This api sended emails weekly advising which products are nearby to spoil.
+  Inmana this a app to manage products that are overset. This api sended emails weekly advising which products are nearby to spoil.
 </p>
 
 <br>
