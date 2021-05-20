@@ -6,6 +6,9 @@
 <h4 align="center">Application made during a NLW</h4>
 
 chnages on readme
+readme message 2
+readme message 3
+readme message 4
 <p align="center">
   <a href="#project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#techs">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
