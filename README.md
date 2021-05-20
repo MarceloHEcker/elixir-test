@@ -5,6 +5,7 @@
 <h4 align="center">NextLevelWeek 5.0 🚀</h4>
 <h4 align="center">Application made during a NLW</h4>
 
+chnages on readme
 <p align="center">
   <a href="#project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#techs">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
